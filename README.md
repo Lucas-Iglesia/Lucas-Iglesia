@@ -26,4 +26,4 @@ Vision & ML: PyTorch · YOLOv11 · D-FINE · OpenCV · DeepSORT · Roboflow · H
 
 📫 Contact
 
-LinkedIn · lucas.iglesia.pro@gmail.com · neptune-ai.tech
+[LinkedIn](https://www.linkedin.com/in/lucas-iglesia/) · lucas.iglesia.pro@gmail.com · [neptune-ai.tech](https://neptune-ai.tech/)
